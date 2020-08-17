@@ -1,0 +1,13 @@
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/bin/Debug/netcoreapp3.1/CSharp_DebugTools
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/bin/Debug/netcoreapp3.1/CSharp_DebugTools.deps.json
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/bin/Debug/netcoreapp3.1/CSharp_DebugTools.runtimeconfig.json
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/bin/Debug/netcoreapp3.1/CSharp_DebugTools.runtimeconfig.dev.json
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/bin/Debug/netcoreapp3.1/CSharp_DebugTools.dll
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/bin/Debug/netcoreapp3.1/CSharp_DebugTools.pdb
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/obj/Debug/netcoreapp3.1/CSharp_DebugTools.csprojAssemblyReference.cache
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/obj/Debug/netcoreapp3.1/CSharp_DebugTools.AssemblyInfoInputs.cache
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/obj/Debug/netcoreapp3.1/CSharp_DebugTools.AssemblyInfo.cs
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/obj/Debug/netcoreapp3.1/CSharp_DebugTools.csproj.CoreCompileInputs.cache
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/obj/Debug/netcoreapp3.1/CSharp_DebugTools.dll
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/obj/Debug/netcoreapp3.1/CSharp_DebugTools.pdb
+/home/rishit/source/repos/ProgrammingTools/Debugging_Tools/CSharp_DebugTools/obj/Debug/netcoreapp3.1/CSharp_DebugTools.genruntimeconfig.cache
