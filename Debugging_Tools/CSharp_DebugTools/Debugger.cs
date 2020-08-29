@@ -33,7 +33,7 @@ namespace CSharp_DebugTools
 	
 		public void Log(string Message) 
 		{
-			Console.WriteLine($"\nDebug {this.LogCount}: {Message}");
+			Console.WriteLine($"\nDebug {this.LogCount++}: {Message}");
 		}
 	
 		///<summary>
